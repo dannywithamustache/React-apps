@@ -1,0 +1,29 @@
+body {
+  color: white;
+  background: darkred;
+  font-family: "Coiny", cursive;
+}
+#timer-label {
+  font-size: 40px;
+}
+#round-break {
+  font-size: 35px;
+}
+#clock {
+  padding-top: 10vh;
+  text-align: center;
+}
+#incButtons {
+  display: flex;
+  justify-content: space-around;
+  padding: 100px;
+}
+
+.inc {
+  color: darkred;
+  background: orange;
+  border-radius: 40%;
+}
+#buttons {
+  text-align: center;
+}
